@@ -1,0 +1,35 @@
+<html>
+<head>
+	<title>ISU Math/CS Club</title>
+	<link rel="stylesheet" type="text/css" href="MathCS.css">
+</head>
+
+<body>
+	<div id="page-wrap">
+		<br>
+		<header><b>ISU</b> Math/CS Club</header>
+		<div align="center">
+			<div align="center" style="background-color: #FFF8C6; width: 850px; height: 1000px; padding-bottom: 5px;">
+				<a href="index.shtml" class="button3">Home</a><a href="calendar.html" class="button3">Calendar</a><a href="events.html" class="button3">Events</a><a href="officers.html" class="button3">Officers</a><a href="resources.html" class="button3">Resources</a><br>
+				
+				<img src="Images/homeBanner.jpg" width="850" height="250">
+
+				<bodyTitle>
+				</bodyTitle>
+
+				<bodyText>We are the mathematics and computer science club at Idaho State University. We aim to provide a community for the discussion and advancement of ideas related to these fields of study.
+				<br><br> If you would like to join, <a class = "bodyTextLink" href = "join.html"><u><b>click here</b></u></a> for more information.
+				<br>
+				<br>
+				Please be sure to check the calendar for upcoming events!
+				</bodyText>
+
+			</div>
+		</div>
+		<div align="center">
+			<br>
+			<bottomText>ISU Math/CS Club | <a class="bottomTextLink" href="">Contact Us</a></bottomText>
+		</div>
+	</div>
+</body>
+</html>

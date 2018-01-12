@@ -1,1 +1,1 @@
-# isuMathCsClubWebsite
+# Idaho State University Math/CS Club Website
